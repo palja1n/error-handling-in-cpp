@@ -2,9 +2,9 @@
 
 # Error Handling in CPP  
 
-**Name**: Pal Jain
-**Class**: ENTC A3
-**PRN**: 24070123067
+**Name**: Pal Jain  
+**Class**: ENTC A3  
+**PRN**: 24070123067  
 
 ---
 
