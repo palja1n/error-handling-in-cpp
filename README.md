@@ -1,6 +1,6 @@
 
 
-# Error Handling in CPP  
+# Exception Handling in CPP  
 
 **Name**: Pal Jain  
 **Class**: ENTC A3  
@@ -8,7 +8,7 @@
 
 ---
 
-## Title: Error Handling in CPP  
+## Title: Exception Handling in CPP  
 
 ---
 
